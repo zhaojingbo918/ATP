@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/ATP/v15
+/ATP.Core/bin/Debug
+/ATP.Core/obj/Debug
+/ATP.CoreLibs/bin/Debug
+/ATP.CoreLibs/obj/Debug
+/ATP.TestForm/bin/Debug
+/ATP.TestForm/obj/Debug
+/ConsoleApplication1/bin/Debug
+/ConsoleApplication1/obj/Debug
+/ConsoleTest/bin/Debug
+/ConsoleTest/obj/Debug
+/UIATest/bin/Debug
+/UIATest/obj/Debug
+/WpfApp/bin/Debug
+/WpfApp/obj/Debug

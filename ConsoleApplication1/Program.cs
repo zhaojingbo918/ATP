@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Windows.Automation;
-using System.Diagnostics;
-using FTP.Core;
-using FTP.CoreLibs;
+using System.Diagnostics; 
 
 namespace ConsoleApplication1
 {
